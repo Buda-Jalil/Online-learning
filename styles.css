@@ -9,3 +9,13 @@ body {
     background: #f9f9f9 ;
     color: #333 ;
 }
+.container {
+    margin: auto ;
+    width: 90% ;
+    max-width: 1200px ; 
+}
+header {
+    background-color: rgb(113, 113, 227) ;
+    color: white ;
+    padding: 1rem 0 ;
+}
