@@ -19,3 +19,20 @@ header {
     color: white ;
     padding: 1rem 0 ;
 }
+.header-container {
+    display: flex ;
+    justify-content: space-between ;
+    align-items: center ;
+}
+.logo {
+    font-size: 1.8rem ;
+}
+.nav-menu {
+    list-style: none ;
+    display: flex ;
+    gap: 1.5rem ;
+}
+.nav-menu a {
+    color: #fff ;
+    text-decoration: none ;
+}
