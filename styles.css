@@ -44,4 +44,22 @@ header {
 .hero-content h2 {
     font-size: 2.5rem ;
     margin-bottom: 1rem ;
-} 
+}
+.courses {
+    padding: 2rem 0 ;
+    background-color: #fff ;
+}
+.course-list {
+    display: flex ;
+    gap: 1.5rem ;
+    justify-content: space-between ;
+    margin-top: 1rem ;
+}
+.course-card {
+    background-color: #ffffff99 ;
+    padding: 1rem ;
+    border-radius: 8px ;
+    width: 30% ;
+    display: flex ;
+    flex-direction: column ;
+}
