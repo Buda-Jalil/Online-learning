@@ -63,3 +63,19 @@ header {
     display: flex ;
     flex-direction: column ;
 }
+.instrcutors {
+    padding: 2rem 0 ;
+    background-color: #f0f0f0 ;
+}
+.instructor-list {
+    display: flex ;
+    gap: 1.5rem ;
+    margin-top: 1rem ;
+}
+.instrcutor-card {
+    width: 45% ;
+    background-color: #fff ;
+    padding: 1rem ;
+    border: 1px solid #ccc;
+    border-radius: 6px ;
+}
