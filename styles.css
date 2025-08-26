@@ -79,3 +79,10 @@ header {
     border: 1px solid #ccc;
     border-radius: 6px ;
 }
+footer {
+    background-color: rgb(98, 98, 145) ;
+    color: #fff ;
+    text-align: center ;
+    padding: 1rem 0 ;
+    margin-top: 2rem ;
+}
