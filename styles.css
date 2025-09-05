@@ -117,4 +117,10 @@ footer {
     .hero-content p{
         font-size: 1rem ;
     }
+    .course-list{
+        gap: 1rem ;
+    }
+    .course-card{
+        width: 100% ;
+    }
 }
