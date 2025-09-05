@@ -123,4 +123,14 @@ footer {
     .course-card{
         width: 100% ;
     }
+    .instructor-list{
+        gap: 1rem ;
+    }
+    .instrcutor-card{
+        width: 100% ;
+    }
+    footer{
+        font-size: 0.9rem ;
+        padding: 1.2rem 0 ;
+    }
 }
